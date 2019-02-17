@@ -1,0 +1,10 @@
+C:\Users\Ivan Marcellino\source\repos\triangle\triangle\bin\Debug\triangle.exe.config
+C:\Users\Ivan Marcellino\source\repos\triangle\triangle\bin\Debug\triangle.exe
+C:\Users\Ivan Marcellino\source\repos\triangle\triangle\bin\Debug\triangle.pdb
+C:\Users\Ivan Marcellino\source\repos\triangle\triangle\obj\Debug\triangle.csprojAssemblyReference.cache
+C:\Users\Ivan Marcellino\source\repos\triangle\triangle\obj\Debug\triangle.Form1.resources
+C:\Users\Ivan Marcellino\source\repos\triangle\triangle\obj\Debug\triangle.Properties.Resources.resources
+C:\Users\Ivan Marcellino\source\repos\triangle\triangle\obj\Debug\triangle.csproj.GenerateResource.cache
+C:\Users\Ivan Marcellino\source\repos\triangle\triangle\obj\Debug\triangle.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Marcellino\source\repos\triangle\triangle\obj\Debug\triangle.exe
+C:\Users\Ivan Marcellino\source\repos\triangle\triangle\obj\Debug\triangle.pdb
